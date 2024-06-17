@@ -38,8 +38,8 @@ ___
 
 1. หน้าแรก
 
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Hidden-Search-Widget/blob/main/previews/pre-1.png)
 
 2. เมื่อคลิกที่ Icon
 
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Hidden-Search-Widget/blob/main/previews/pre-2.png)
